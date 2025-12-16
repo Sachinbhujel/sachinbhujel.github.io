@@ -36,6 +36,13 @@ export const socials = {
 export const projects = {
     pinProjects: [
         {
+            title: "NihongoQ",
+            description:
+                "NihongoQ helps you learn Hiragana, Katakana, and essential vocabulary through interactive quizzes and flashcards.",
+            tags: ["Japanese Learning", "Next Js", "Tailwind CSS"],
+            link: "https://nihongoq.vercel.app",
+        },
+        {
             title: "DiffyAI",
             description:
                 "DiffyAI is a minimal and lightweight AI chat app built with Next.js and TailwindCSS.",
@@ -85,13 +92,6 @@ export const projects = {
                 "Badvice AI is a fun, humorous AI that gives bad advice for any problem you throw at it.",
             tags: ["Tailwind Css", "Next Js"],
             link: "https://badvice.vercel.app",
-        },
-        {
-            title: "Stories For You",
-            description:
-                "A website where you can only see stories. Watch and share real moments with StoriXY. And stay connected in the most effortless way.",
-            tags: ["CSS", "React Js"],
-            link: "https://storixy.netlify.app",
         },
     ],
 };
