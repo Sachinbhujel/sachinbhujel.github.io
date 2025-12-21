@@ -28,7 +28,7 @@ export const skills = [
 
 export const socials = {
     github: "https://github.com/sachinbhujel",
-    twitter: "https://twitter.com/sachinbhujel909",
+    twitter: "https://x.com/imsachinbhujel",
     instagram: "https://www.instagram.com/imsachinbhujel",
     facebook: "https://www.facebook.com/imsachinbhujel",
 };
